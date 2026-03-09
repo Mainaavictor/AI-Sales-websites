@@ -1,0 +1,35 @@
+body{
+    font-family: Arial;
+    backgroud: linear-gradient(135deg,#ff5f6d,#ffc371);
+    text-align: center;
+}
+h1{
+    color: white;
+}
+order-box{
+    background: white;
+    width: 320px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+input{
+    width:90%;
+    padding: 10px;
+    margin: 10px; 
+
+}
+button{
+    padding: 10px;
+    background: #0077ff;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+chat-container{
+    margin-top: 40px;
+    background: black;
+    color:white;
+    padding: 20px;
+}
